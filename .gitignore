@@ -22,3 +22,22 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# System & Build Ignores
+node_modules/
+.env
+.env.local
+.terraform/
+*.exe
+*.pack
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.next/
+dist/
+build/
+*.apk
+books/
+*.db
+*.onnx

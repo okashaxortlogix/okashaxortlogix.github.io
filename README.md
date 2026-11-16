@@ -93,7 +93,7 @@ Portfolio-3D/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/muhammadokashapak/Portfolio-3D.git
+git clone https://github.com/okashaxortlogix/okashaxortlogix.github.io.git
 cd Portfolio-3D
 
 npm install
@@ -118,7 +118,7 @@ npm run preview
 **Muhammad Okasha**  
 *AI & Machine Learning Specialist | Full-Stack Architect*  
 - **GitHub:** [@muhammadokashapak](https://github.com/muhammadokashapak)
-- **Portfolio:** [Muhammad Okasha 3D Portfolio](https://github.com/muhammadokashapak/Portfolio-3D)
+- **Portfolio:** [Muhammad Okasha 3D Portfolio](https://github.com/okashaxortlogix/okashaxortlogix.github.io)
 
 ---
 
